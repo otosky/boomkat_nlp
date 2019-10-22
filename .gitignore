@@ -1,0 +1,9 @@
+# ignore OSX .DS_Store
+.DS_Store
+
+# ignore jupyter checkpoints
+.ipynb_checkpoints/
+
+# ignore pycache
+*/__pycache__/
+*/*/__pycache__/
