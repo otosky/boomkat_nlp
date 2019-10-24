@@ -10,7 +10,7 @@ a piece of music.
 This project aims to demonstrate an exploratory way to develop 
 a descriptive vocabulary for different musical styles - specifically, sub-genres
 of House & Techno music - by performing Topic-Modeling and Parts-of-Speech tagging
-on product descriptions of albums sold on Boomkat.com.
+on product descriptions of albums sold on [Boomkat.com](https://www.boomkat.com).
 
 ## Use-Case
 
@@ -25,7 +25,7 @@ were writing the press release. :sweat_smile:
 
 ## Data
 
-I scraped every release under the House/Techno section of Boomkat.com in August 2019.
+I scraped every release under the House/Techno section of [Boomkat.com](https://www.boomkat.com) in August 2019.
 
 Of the 800,000+ releases, only around 11,000 or so had text product descriptions.  Their 
 knack for humor and really-long-hyphenated-compound-words made them a good candidate as 
